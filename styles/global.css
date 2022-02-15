@@ -5,6 +5,6 @@
 
 @layer components{
     .site-container{
-        @apply max-w-2xl mx-auto
+        @apply max-w-2xl mx-auto px-6
     }
 }
